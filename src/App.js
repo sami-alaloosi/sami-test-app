@@ -6,7 +6,7 @@ function App() {
   
   return (
     <main>
-      <h1>Sami's App </h1>
+      <h1>Sami's App2 </h1>
       <h2>
         Deployed with{' '}
         <a
